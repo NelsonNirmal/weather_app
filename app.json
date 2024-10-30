@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "frowning-green-milkshake",
+    "slug": "snack-18ec98e8-fdcd-4252-b42d-6ef163c7fea4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.nelson_nirmal.snack18ec98e8fdcd4252b42d6ef163c7fea4"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3e99b21b-a8b9-4843-8351-5b25c80f4ca2"
+      }
+    }
+  }
+}
